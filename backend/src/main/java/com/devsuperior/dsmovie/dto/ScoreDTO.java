@@ -22,9 +22,9 @@ public class ScoreDTO {
 	}
 
 	public void setEmail(String email) {
-		this.email = email;
-	}
-
+		  this.email = email;
+		}
+	
 	public Double getScore() {
 		return score;
 	}
